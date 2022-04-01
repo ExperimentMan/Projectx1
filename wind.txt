@@ -1,0 +1,4 @@
+create water slash %
+make big water 30%
+damage water 500 points
+starnk 4000 points
