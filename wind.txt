@@ -1,4 +1,7 @@
 create water slash %
 make big water 30%
-damage water 500 points
-starnk 4000 points
+damage water cannon 200 points
+waterfall damage 300 points
+grow damage water 30%
+speed water 400 points
+
